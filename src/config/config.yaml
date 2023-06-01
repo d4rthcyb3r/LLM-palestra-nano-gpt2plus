@@ -7,7 +7,7 @@ data:
 
 datasets:
   tiny_shakespeare:
-    url: https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshakespeare/input.txt
+    url: https://raw.githubusercontent.com/d4rthcyb3r/LLM-palestra-nano-gpt2plus/main/data/raw/tiny_shakespeare/input.txt 
     folder: ${data.path.raw}/tiny_shakespeare
     filename: input.txt
     file_path: ${datasets.tiny_shakespeare.folder}/${datasets.tiny_shakespeare.filename}
