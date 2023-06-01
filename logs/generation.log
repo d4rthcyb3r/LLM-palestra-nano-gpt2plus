@@ -1,0 +1,74 @@
+2023-05-03 10:53:48.290 | DEBUG    | __main__:generate_new_tokens:69 - Random seed is fixed for token generation.
+2023-05-03 10:53:48.299 | DEBUG    | __main__:generate_new_tokens:104 - Generating tokens on 'cpu' device
+2023-05-03 10:53:48.382 | INFO     | __main__:generate_new_tokens:120 - New generated tokens:  adat I ican wiayoul, devend w ou, brhthishit r bet y hal a ho ffe hochour o he isollyowe gh irt whot
+2023-05-03 10:53:48.382 | DEBUG    | __main__:generate_new_tokens:121 - Token generation took: 0.0828 seconds
+2023-05-03 11:01:55.602 | DEBUG    | __main__:generate_new_tokens:69 - Random seed is fixed for token generation.
+2023-05-03 11:01:56.431 | DEBUG    | src.model.gpt_language_model.gpt:__init__:114 - GPT language model is created with number of parameters: 38.39 million
+2023-05-03 11:13:38.166 | DEBUG    | __main__:generate_new_tokens:69 - Random seed is fixed for token generation.
+2023-05-03 11:13:38.968 | DEBUG    | src.model.gpt_language_model.gpt:__init__:114 - GPT language model is created with number of parameters: 38.39 million
+2023-05-03 11:16:35.289 | DEBUG    | __main__:generate_new_tokens:69 - Random seed is fixed for token generation.
+2023-05-03 11:16:36.096 | DEBUG    | src.model.gpt_language_model.gpt:__init__:114 - GPT language model is created with number of parameters: 38.39 million
+2023-05-03 11:18:05.085 | DEBUG    | __main__:generate_new_tokens:69 - Random seed is fixed for token generation.
+2023-05-03 11:18:05.916 | DEBUG    | src.model.gpt_language_model.gpt:__init__:114 - GPT language model is created with number of parameters: 38.39 million
+2023-05-03 11:18:06.074 | DEBUG    | __main__:generate_new_tokens:104 - Generating tokens on 'cpu' device
+2023-05-03 11:18:08.885 | INFO     | __main__:generate_new_tokens:120 - New generated tokens:  sown to getheer to beath
+With conter-houtsing grave than the host of breating
+Of thy whose body: but
+2023-05-03 11:18:08.885 | DEBUG    | __main__:generate_new_tokens:121 - Token generation took: 2.8109 seconds
+2023-05-03 11:20:43.772 | DEBUG    | __main__:generate_new_tokens:69 - Random seed is fixed for token generation.
+2023-05-03 11:20:44.592 | DEBUG    | src.model.gpt_language_model.gpt:__init__:114 - GPT language model is created with number of parameters: 38.39 million
+2023-05-03 11:20:44.750 | DEBUG    | __main__:generate_new_tokens:104 - Generating tokens on 'cpu' device
+2023-05-03 11:20:48.470 | INFO     | __main__:generate_new_tokens:120 - New generated tokens: What is the richest country in the world?
+
+MENENIUS:
+Kell what you
+A know to denermition?
+
+COMINIUS:
+You have not bee; but ever of my the goo
+2023-05-03 11:20:48.470 | DEBUG    | __main__:generate_new_tokens:121 - Token generation took: 3.7203 seconds
+2023-05-03 11:22:15.931 | DEBUG    | __main__:generate_new_tokens:69 - Random seed is fixed for token generation.
+2023-05-03 11:22:23.687 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:340 - Creating GPT model with parameters: {'vocab_size': 50257, 'embeddings_size': 1280, 'context_size': 1024, 'num_layers': 36, 'num_heads': 20, 'head_size': None, 'feed_forward_scaling': 4, 'bias': True, 'dropout': 0.1}
+2023-05-03 11:22:39.914 | DEBUG    | src.model.gpt_language_model.gpt:__init__:114 - GPT language model is created with number of parameters: 772.72 million
+2023-05-03 11:22:39.917 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:348 - Loading pretrained Huggingface model of size 'gpt2-large' ...
+2023-05-03 11:31:17.577 | DEBUG    | __main__:generate_new_tokens:69 - Random seed is fixed for token generation.
+2023-05-03 11:31:21.086 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:340 - Creating GPT model with parameters: {'vocab_size': 50257, 'embeddings_size': 1280, 'context_size': 1024, 'num_layers': 36, 'num_heads': 20, 'head_size': None, 'feed_forward_scaling': 4, 'bias': True, 'dropout': 0.1}
+2023-05-03 11:31:40.001 | DEBUG    | src.model.gpt_language_model.gpt:__init__:114 - GPT language model is created with number of parameters: 772.72 million
+2023-05-03 11:31:40.005 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:348 - Loading pretrained Huggingface model of size 'gpt2-large' ...
+2023-05-03 12:23:17.881 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:350 - Huggingface model is loaded.
+2023-05-03 12:23:17.940 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:387 - Starting copying weights from pretrained Huggingface model into our implementation ...
+2023-05-03 12:23:22.556 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:401 - Weights are copied.
+2023-05-03 12:23:23.141 | DEBUG    | __main__:generate_new_tokens:104 - Generating tokens on 'cpu' device
+2023-05-03 12:24:18.471 | INFO     | __main__:generate_new_tokens:120 - New generated tokens: What is the richest country in the world?
+
+We understand the Brookings Global Demographic and Socio-Economic Outlook 4th Edition is only a stretch goal. So we've worked out a system that will allow you to pledge $1 to get confirmed shipping estimated at $25 (745). In order to get the real meatsong of your pledge you'll need to pledge a minimum of $25 which will drop us down to a wafer shield around $30. It'll look like this -
+
+The wafer shield would be a
+2023-05-03 12:24:18.472 | DEBUG    | __main__:generate_new_tokens:121 - Token generation took: 55.3428 seconds
+2023-05-03 13:33:35.844 | DEBUG    | __main__:generate_new_tokens:69 - Random seed is fixed for token generation.
+2023-05-03 13:34:02.336 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:340 - Creating GPT model with parameters: {'vocab_size': 50257, 'embeddings_size': 1280, 'context_size': 1024, 'num_layers': 36, 'num_heads': 20, 'head_size': None, 'feed_forward_scaling': 4, 'bias': True, 'dropout': 0.1}
+2023-05-03 13:34:22.499 | DEBUG    | src.model.gpt_language_model.gpt:__init__:114 - GPT language model is created with number of parameters: 772.72 million
+2023-05-03 13:34:22.503 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:348 - Loading pretrained Huggingface model of size 'gpt2-large' ...
+2023-05-03 13:34:58.840 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:350 - Huggingface model is loaded.
+2023-05-03 13:34:58.998 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:387 - Starting copying weights from pretrained Huggingface model into our implementation ...
+2023-05-03 13:35:02.409 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:401 - Weights are copied.
+2023-05-03 13:35:03.132 | DEBUG    | __main__:generate_new_tokens:104 - Generating tokens on 'cpu' device
+2023-05-03 13:35:56.759 | INFO     | __main__:generate_new_tokens:120 - New generated tokens: What is the Moon?
+
+We understand the Moon as huge disk that is said to have a 4D shape. Cryosphere consists of two layers, the top of the Moon's atmosphere which consists of particles of global origin with low density ( less than 2 kg), and the innermost part.
+
+How simple Earth is?
+
+Our planet has a diameter of 300 km, gravity force of 8.5 g, atmosphere pressure of 1011 kg per square metres, density 70 kg/m², and temperature
+2023-05-03 13:35:56.759 | DEBUG    | __main__:generate_new_tokens:121 - Token generation took: 53.6319 seconds
+2023-05-03 13:37:00.901 | DEBUG    | __main__:generate_new_tokens:69 - Random seed is fixed for token generation.
+2023-05-03 13:37:20.318 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:340 - Creating GPT model with parameters: {'vocab_size': 50257, 'embeddings_size': 1280, 'context_size': 1024, 'num_layers': 36, 'num_heads': 20, 'head_size': None, 'feed_forward_scaling': 4, 'bias': True, 'dropout': 0.1}
+2023-05-03 13:37:40.905 | DEBUG    | src.model.gpt_language_model.gpt:__init__:114 - GPT language model is created with number of parameters: 772.72 million
+2023-05-03 13:37:40.909 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:348 - Loading pretrained Huggingface model of size 'gpt2-large' ...
+2023-05-03 13:38:42.872 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:350 - Huggingface model is loaded.
+2023-05-03 13:38:43.674 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:387 - Starting copying weights from pretrained Huggingface model into our implementation ...
+2023-05-03 13:38:49.296 | DEBUG    | src.model.gpt_language_model.gpt:from_pretrained:401 - Weights are copied.
+2023-05-03 13:38:50.358 | DEBUG    | __main__:generate_new_tokens:104 - Generating tokens on 'cpu' device
+2023-05-03 13:39:49.860 | INFO     | __main__:generate_new_tokens:120 - New generated tokens: O que é a Lua ?  However, understand that the code above was just a demonstration of my lack of experience with Lua weapons.  What I would like to see is a little bit of an "Introduction" or explanitional documentation of various features on any weapon; a booklet or a card.
+... an  invitation to users who want to take a shot, or who want to learn a new game (even if it is another battle technique from an older game), to enjoy the newest capabilities of Lua games
+2023-05-03 13:39:49.861 | DEBUG    | __main__:generate_new_tokens:121 - Token generation took: 59.5080 seconds
